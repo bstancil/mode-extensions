@@ -1,3 +1,3 @@
 var imported = document.createElement("script");
-imported.src = "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js";
+imported.src = "https://cdn.rawgit.com/jakezatecky/d3-funnel/master/dist/d3-funnel.min.js";
 document.head.appendChild(imported);
