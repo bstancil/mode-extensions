@@ -3,6 +3,7 @@
 ## Visualizations
 
 **Retention Heatmap**
+
 `mode.rententionPivot( { object_of_options } )`  ([Live example](https://modeanalytics.com/modeanalytics/reports/f25a1764f2b4))
 
 This visualization shows retention rates by cohort. It requires a dataset of at least three columns&mdash;a cohort column, a column to pivot cohorts on, and a value column. A fourth column for cohort size is optional.
