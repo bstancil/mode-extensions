@@ -2,7 +2,7 @@
 
 ## Visualizations
 
-*Retention Heatmap*
+**Retention Heatmap**
 `mode.rententionPivot( { object_of_options } )`
 
 [Example](https://modeanalytics.com/editor/modeanalytics/reports/f25a1764f2b4)
