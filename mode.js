@@ -3,7 +3,7 @@ var mode = {
   };
 
 
-function retentionPivot(o,dataset) {
+function retentionPivot(o) {
   
   if (o["html_element"]) { 
     htmlElement = o["html_element"];
@@ -145,4 +145,4 @@ function retentionPivot(o,dataset) {
   
 }
 
-mode.retentionPivot = drawGrid
+mode.retentionPivot = retentionPivot
