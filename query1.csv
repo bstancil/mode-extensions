@@ -1,0 +1,398 @@
+cohort,period,retained_users,cohort_size
+acer aspire desktop,0.0,60,60
+acer aspire desktop,1.0,11,60
+acer aspire desktop,2.0,7,60
+acer aspire desktop,3.0,10,60
+acer aspire desktop,4.0,7,60
+acer aspire desktop,5.0,6,60
+acer aspire desktop,6.0,5,60
+acer aspire desktop,7.0,7,60
+acer aspire desktop,8.0,4,60
+acer aspire desktop,9.0,3,60
+acer aspire desktop,10.0,3,60
+acer aspire desktop,11.0,2,60
+acer aspire desktop,12.0,1,60
+acer aspire desktop,13.0,2,60
+acer aspire notebook,0.0,103,103
+acer aspire notebook,1.0,26,103
+acer aspire notebook,2.0,16,103
+acer aspire notebook,3.0,23,103
+acer aspire notebook,4.0,23,103
+acer aspire notebook,5.0,18,103
+acer aspire notebook,6.0,19,103
+acer aspire notebook,7.0,12,103
+acer aspire notebook,8.0,8,103
+acer aspire notebook,9.0,7,103
+acer aspire notebook,10.0,2,103
+acer aspire notebook,11.0,4,103
+acer aspire notebook,12.0,2,103
+acer aspire notebook,13.0,1,103
+acer aspire notebook,16.0,1,103
+amazon fire phone,0.0,31,31
+amazon fire phone,1.0,2,31
+amazon fire phone,2.0,3,31
+amazon fire phone,3.0,7,31
+amazon fire phone,4.0,6,31
+amazon fire phone,5.0,7,31
+amazon fire phone,6.0,5,31
+amazon fire phone,7.0,7,31
+amazon fire phone,8.0,5,31
+amazon fire phone,9.0,1,31
+amazon fire phone,10.0,2,31
+amazon fire phone,11.0,3,31
+amazon fire phone,12.0,1,31
+amazon fire phone,13.0,1,31
+asus chromebook,0.0,103,103
+asus chromebook,1.0,16,103
+asus chromebook,2.0,16,103
+asus chromebook,3.0,13,103
+asus chromebook,4.0,15,103
+asus chromebook,5.0,13,103
+asus chromebook,6.0,9,103
+asus chromebook,7.0,9,103
+asus chromebook,8.0,6,103
+asus chromebook,9.0,7,103
+asus chromebook,10.0,6,103
+asus chromebook,11.0,3,103
+asus chromebook,12.0,3,103
+asus chromebook,13.0,3,103
+asus chromebook,14.0,2,103
+asus chromebook,15.0,1,103
+asus chromebook,16.0,1,103
+dell inspiron desktop,0.0,101,101
+dell inspiron desktop,1.0,15,101
+dell inspiron desktop,2.0,13,101
+dell inspiron desktop,3.0,16,101
+dell inspiron desktop,4.0,15,101
+dell inspiron desktop,5.0,15,101
+dell inspiron desktop,6.0,16,101
+dell inspiron desktop,7.0,15,101
+dell inspiron desktop,8.0,10,101
+dell inspiron desktop,9.0,11,101
+dell inspiron desktop,10.0,8,101
+dell inspiron desktop,11.0,4,101
+dell inspiron desktop,12.0,3,101
+dell inspiron desktop,13.0,1,101
+dell inspiron desktop,15.0,2,101
+dell inspiron notebook,0.0,196,196
+dell inspiron notebook,1.0,38,196
+dell inspiron notebook,2.0,32,196
+dell inspiron notebook,3.0,19,196
+dell inspiron notebook,4.0,31,196
+dell inspiron notebook,5.0,39,196
+dell inspiron notebook,6.0,38,196
+dell inspiron notebook,7.0,32,196
+dell inspiron notebook,8.0,20,196
+dell inspiron notebook,9.0,14,196
+dell inspiron notebook,10.0,12,196
+dell inspiron notebook,11.0,8,196
+dell inspiron notebook,12.0,8,196
+dell inspiron notebook,13.0,3,196
+dell inspiron notebook,14.0,5,196
+dell inspiron notebook,15.0,5,196
+dell inspiron notebook,16.0,3,196
+dell inspiron notebook,17.0,1,196
+hp pavilion desktop,0.0,128,128
+hp pavilion desktop,1.0,27,128
+hp pavilion desktop,2.0,23,128
+hp pavilion desktop,3.0,24,128
+hp pavilion desktop,4.0,25,128
+hp pavilion desktop,5.0,23,128
+hp pavilion desktop,6.0,22,128
+hp pavilion desktop,7.0,21,128
+hp pavilion desktop,8.0,15,128
+hp pavilion desktop,9.0,8,128
+hp pavilion desktop,10.0,7,128
+hp pavilion desktop,11.0,8,128
+hp pavilion desktop,12.0,5,128
+hp pavilion desktop,13.0,2,128
+hp pavilion desktop,14.0,1,128
+hp pavilion desktop,15.0,2,128
+hp pavilion desktop,16.0,1,128
+htc one,0.0,71,71
+htc one,1.0,15,71
+htc one,2.0,18,71
+htc one,3.0,13,71
+htc one,4.0,9,71
+htc one,5.0,8,71
+htc one,6.0,6,71
+htc one,7.0,9,71
+htc one,8.0,6,71
+htc one,9.0,5,71
+htc one,10.0,5,71
+htc one,11.0,5,71
+htc one,12.0,3,71
+htc one,16.0,1,71
+ipad air,0.0,101,101
+ipad air,1.0,22,101
+ipad air,2.0,16,101
+ipad air,3.0,13,101
+ipad air,4.0,14,101
+ipad air,5.0,11,101
+ipad air,6.0,10,101
+ipad air,7.0,12,101
+ipad air,8.0,9,101
+ipad air,9.0,3,101
+ipad air,10.0,2,101
+ipad air,11.0,2,101
+ipad air,12.0,2,101
+ipad air,13.0,2,101
+ipad air,14.0,4,101
+ipad air,15.0,1,101
+ipad air,16.0,1,101
+ipad mini,0.0,67,67
+ipad mini,1.0,10,67
+ipad mini,2.0,8,67
+ipad mini,3.0,5,67
+ipad mini,4.0,12,67
+ipad mini,5.0,12,67
+ipad mini,6.0,10,67
+ipad mini,7.0,10,67
+ipad mini,8.0,7,67
+ipad mini,9.0,5,67
+ipad mini,10.0,5,67
+ipad mini,11.0,3,67
+ipad mini,12.0,2,67
+ipad mini,13.0,2,67
+ipad mini,14.0,1,67
+iphone 4s,0.0,111,111
+iphone 4s,1.0,20,111
+iphone 4s,2.0,17,111
+iphone 4s,3.0,21,111
+iphone 4s,4.0,12,111
+iphone 4s,5.0,16,111
+iphone 4s,6.0,15,111
+iphone 4s,7.0,16,111
+iphone 4s,8.0,10,111
+iphone 4s,9.0,4,111
+iphone 4s,10.0,4,111
+iphone 4s,11.0,1,111
+iphone 4s,12.0,2,111
+iphone 4s,13.0,2,111
+iphone 4s,15.0,1,111
+iphone 5,0.0,297,297
+iphone 5,1.0,63,297
+iphone 5,2.0,54,297
+iphone 5,3.0,50,297
+iphone 5,4.0,52,297
+iphone 5,5.0,43,297
+iphone 5,6.0,38,297
+iphone 5,7.0,30,297
+iphone 5,8.0,27,297
+iphone 5,9.0,25,297
+iphone 5,10.0,18,297
+iphone 5,11.0,12,297
+iphone 5,12.0,7,297
+iphone 5,13.0,3,297
+iphone 5,14.0,3,297
+iphone 5,15.0,1,297
+iphone 5,16.0,2,297
+iphone 5,17.0,1,297
+iphone 5s,0.0,146,146
+iphone 5s,1.0,25,146
+iphone 5s,2.0,18,146
+iphone 5s,3.0,13,146
+iphone 5s,4.0,19,146
+iphone 5s,5.0,24,146
+iphone 5s,6.0,30,146
+iphone 5s,7.0,19,146
+iphone 5s,8.0,14,146
+iphone 5s,9.0,10,146
+iphone 5s,10.0,8,146
+iphone 5s,11.0,9,146
+iphone 5s,12.0,5,146
+iphone 5s,13.0,4,146
+iphone 5s,14.0,4,146
+kindle fire,0.0,43,43
+kindle fire,1.0,8,43
+kindle fire,2.0,5,43
+kindle fire,3.0,9,43
+kindle fire,4.0,8,43
+kindle fire,5.0,8,43
+kindle fire,6.0,6,43
+kindle fire,7.0,3,43
+kindle fire,8.0,4,43
+kindle fire,9.0,2,43
+kindle fire,10.0,1,43
+kindle fire,11.0,3,43
+kindle fire,12.0,2,43
+kindle fire,13.0,2,43
+lenovo thinkpad,0.0,418,418
+lenovo thinkpad,1.0,76,418
+lenovo thinkpad,2.0,64,418
+lenovo thinkpad,3.0,59,418
+lenovo thinkpad,4.0,56,418
+lenovo thinkpad,5.0,55,418
+lenovo thinkpad,6.0,41,418
+lenovo thinkpad,7.0,40,418
+lenovo thinkpad,8.0,31,418
+lenovo thinkpad,9.0,27,418
+lenovo thinkpad,10.0,24,418
+lenovo thinkpad,11.0,20,418
+lenovo thinkpad,12.0,15,418
+lenovo thinkpad,13.0,13,418
+lenovo thinkpad,14.0,10,418
+lenovo thinkpad,15.0,3,418
+lenovo thinkpad,16.0,1,418
+macbook air,0.0,332,332
+macbook air,1.0,59,332
+macbook air,2.0,48,332
+macbook air,3.0,51,332
+macbook air,4.0,46,332
+macbook air,5.0,45,332
+macbook air,6.0,47,332
+macbook air,7.0,47,332
+macbook air,8.0,41,332
+macbook air,9.0,22,332
+macbook air,10.0,20,332
+macbook air,11.0,17,332
+macbook air,12.0,10,332
+macbook air,13.0,7,332
+macbook air,14.0,4,332
+macbook air,15.0,6,332
+macbook air,16.0,2,332
+macbook air,17.0,2,332
+macbook pro,0.0,570,570
+macbook pro,1.0,96,570
+macbook pro,2.0,91,570
+macbook pro,3.0,88,570
+macbook pro,4.0,69,570
+macbook pro,5.0,78,570
+macbook pro,6.0,57,570
+macbook pro,7.0,57,570
+macbook pro,8.0,42,570
+macbook pro,9.0,38,570
+macbook pro,10.0,17,570
+macbook pro,11.0,17,570
+macbook pro,12.0,18,570
+macbook pro,13.0,12,570
+macbook pro,14.0,12,570
+macbook pro,15.0,10,570
+macbook pro,16.0,3,570
+macbook pro,17.0,1,570
+mac mini,0.0,42,42
+mac mini,1.0,15,42
+mac mini,2.0,9,42
+mac mini,3.0,7,42
+mac mini,4.0,9,42
+mac mini,5.0,7,42
+mac mini,6.0,7,42
+mac mini,7.0,8,42
+mac mini,8.0,5,42
+mac mini,9.0,4,42
+mac mini,10.0,1,42
+mac mini,11.0,2,42
+mac mini,12.0,2,42
+mac mini,13.0,1,42
+nexus 10,0.0,65,65
+nexus 10,1.0,11,65
+nexus 10,2.0,10,65
+nexus 10,3.0,13,65
+nexus 10,4.0,8,65
+nexus 10,5.0,7,65
+nexus 10,6.0,7,65
+nexus 10,7.0,9,65
+nexus 10,8.0,9,65
+nexus 10,9.0,6,65
+nexus 10,10.0,4,65
+nexus 10,11.0,7,65
+nexus 10,12.0,1,65
+nexus 10,13.0,1,65
+nexus 5,0.0,165,165
+nexus 5,1.0,34,165
+nexus 5,2.0,21,165
+nexus 5,3.0,20,165
+nexus 5,4.0,25,165
+nexus 5,5.0,19,165
+nexus 5,6.0,16,165
+nexus 5,7.0,11,165
+nexus 5,8.0,12,165
+nexus 5,9.0,12,165
+nexus 5,10.0,10,165
+nexus 5,11.0,7,165
+nexus 5,12.0,5,165
+nexus 5,13.0,5,165
+nexus 5,14.0,1,165
+nexus 7,0.0,90,90
+nexus 7,1.0,21,90
+nexus 7,2.0,9,90
+nexus 7,3.0,12,90
+nexus 7,4.0,8,90
+nexus 7,5.0,10,90
+nexus 7,6.0,12,90
+nexus 7,7.0,7,90
+nexus 7,8.0,9,90
+nexus 7,9.0,4,90
+nexus 7,10.0,4,90
+nexus 7,11.0,3,90
+nokia lumia 635,0.0,56,56
+nokia lumia 635,1.0,12,56
+nokia lumia 635,2.0,8,56
+nokia lumia 635,3.0,8,56
+nokia lumia 635,4.0,10,56
+nokia lumia 635,5.0,8,56
+nokia lumia 635,6.0,7,56
+nokia lumia 635,7.0,3,56
+nokia lumia 635,8.0,3,56
+nokia lumia 635,9.0,3,56
+nokia lumia 635,10.0,5,56
+nokia lumia 635,11.0,4,56
+nokia lumia 635,12.0,1,56
+nokia lumia 635,14.0,1,56
+nokia lumia 635,15.0,1,56
+samsumg galaxy tablet,0.0,20,20
+samsumg galaxy tablet,1.0,4,20
+samsumg galaxy tablet,2.0,7,20
+samsumg galaxy tablet,3.0,6,20
+samsumg galaxy tablet,4.0,4,20
+samsumg galaxy tablet,5.0,4,20
+samsumg galaxy tablet,6.0,3,20
+samsumg galaxy tablet,7.0,4,20
+samsumg galaxy tablet,8.0,2,20
+samsumg galaxy tablet,9.0,1,20
+samsumg galaxy tablet,10.0,1,20
+samsumg galaxy tablet,11.0,1,20
+samsumg galaxy tablet,12.0,1,20
+samsung galaxy note,0.0,29,29
+samsung galaxy note,1.0,5,29
+samsung galaxy note,2.0,4,29
+samsung galaxy note,3.0,4,29
+samsung galaxy note,4.0,4,29
+samsung galaxy note,5.0,4,29
+samsung galaxy note,6.0,3,29
+samsung galaxy note,7.0,4,29
+samsung galaxy note,8.0,4,29
+samsung galaxy note,9.0,1,29
+samsung galaxy note,10.0,1,29
+samsung galaxy note,11.0,1,29
+samsung galaxy note,12.0,1,29
+samsung galaxy note,13.0,1,29
+samsung galaxy s4,0.0,244,244
+samsung galaxy s4,1.0,40,244
+samsung galaxy s4,2.0,32,244
+samsung galaxy s4,3.0,35,244
+samsung galaxy s4,4.0,33,244
+samsung galaxy s4,5.0,28,244
+samsung galaxy s4,6.0,25,244
+samsung galaxy s4,7.0,26,244
+samsung galaxy s4,8.0,23,244
+samsung galaxy s4,9.0,22,244
+samsung galaxy s4,10.0,19,244
+samsung galaxy s4,11.0,11,244
+samsung galaxy s4,12.0,9,244
+samsung galaxy s4,13.0,9,244
+samsung galaxy s4,14.0,4,244
+samsung galaxy s4,15.0,4,244
+windows surface,0.0,42,42
+windows surface,1.0,7,42
+windows surface,2.0,4,42
+windows surface,3.0,9,42
+windows surface,4.0,8,42
+windows surface,5.0,9,42
+windows surface,6.0,11,42
+windows surface,7.0,10,42
+windows surface,8.0,4,42
+windows surface,9.0,4,42
+windows surface,10.0,1,42
+windows surface,11.0,3,42
+windows surface,12.0,1,42

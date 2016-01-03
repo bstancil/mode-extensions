@@ -1,0 +1,46 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="mode.css"></link>
+</head>
+<body>
+
+<div class="mode-header title">
+  <h1>{{ title }}</h1>
+  <p>{{ description }}</p>
+</div>
+<div id="graphic1"></div>
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+<script src="mode.js"></script>
+<script>
+
+d3.csv("query1.csv", function(error, dataset) {
+
+
+
+
+mode.retentionPivot(
+    {
+      html_element: "#graphic1",
+      query_name: "Query 1",
+      cohort_column: "cohort",
+      pivot_column: "period",
+      value_column: "retained_users",
+      total_column: "cohort_size",
+      title: "Total Users Retained",
+      pivot_label: "Periods out",
+      value_is_percent: false
+    },
+    dataset
+    )
+
+})
+
+</script>
+
+
+</html>

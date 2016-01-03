@@ -3,7 +3,7 @@ var mode = {
   };
 
 
-function retentionPivot(o,dataset) {
+function drawGrid(o,dataset) {
   
   if (o["html_element"]) { 
     htmlElement = o["html_element"];
@@ -13,8 +13,10 @@ function retentionPivot(o,dataset) {
   
   $(htmlElement).addClass("heatmap-container");
   
-  var data = datasets.filter(function(d) { return d.queryName == o["query_name"]; })[0].content,
-      columns = datasets.filter(function(d) { return d.queryName == o["query_name"]; })[0].columns,
+  var data = dataset,
+  	  columns = [{name: "cohort",type: "string"}, {name: "period",type: "float"}, {name: "retained_users",type: "integer"}, {name: "cohort_size",type: "integer"}],
+  // var data = datasets.filter(function(d) { return d.queryName == o["query_name"]; })[0].content,
+      // columns = datasets.filter(function(d) { return d.queryName == o["query_name"]; })[0].columns,
       cohorts = _.uniq( _.pluck(data, o["cohort_column"]) ),
       pivots = _.uniq( _.pluck(data, o["pivot_column"]) );
   
